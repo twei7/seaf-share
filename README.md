@@ -11,10 +11,10 @@ Download/upload shared file or directory from/to Seafile shared link without usi
 
 # Dependency
 - For Ubuntu 16.04
-#``sudo apt install python-pip``
-#``pip install clint``
-#``pip install requests``
-#``pip install requests_toolbelt``
+``sudo apt install python-pip``
+``pip install clint``
+``pip install requests``
+``pip install requests_toolbelt``
 
 # Example
 - Download a shared directory to current directory
