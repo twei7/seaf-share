@@ -13,8 +13,11 @@ Download/upload shared file or directory from/to Seafile shared link without usi
 - For Ubuntu 16.04
 
 ``sudo apt install python-pip``
+
 ``pip install clint``
+
 ``pip install requests``
+
 ``pip install requests_toolbelt``
 
 # Example
