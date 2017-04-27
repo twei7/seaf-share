@@ -9,7 +9,10 @@ Download/upload shared file or directory from/to Seafile shared link without usi
 - Support password protected link
 - Support link for a single file or directory
 
-# Dependency
+# Requirement
+- Python 2.7
+
+# To enable download/upload progress bar
 - For Ubuntu 16.04
 
 ``sudo apt install python-pip``
